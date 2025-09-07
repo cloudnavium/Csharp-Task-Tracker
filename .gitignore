@@ -1,0 +1,19 @@
+# VS/IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.csproj.user
+
+# Build
+bin/
+obj/
+TestResults/
+
+# Packages (old)
+packages/
+
+# Artifacts & misc
+*.nupkg
+*.log
+
